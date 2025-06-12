@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TSMC\\ImageEncoder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B3A557-9DB2-4E9D-87E7-BD28027341FC}|ImageEncoder\\ImageEncoder.csproj|d:\\tsmc\\imageencoder\\imageencoder\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8B3A557-9DB2-4E9D-87E7-BD28027341FC}|ImageEncoder\\ImageEncoder.csproj|solutionrelative:imageencoder\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B3A557-9DB2-4E9D-87E7-BD28027341FC}|ImageEncoder\\ImageEncoder.csproj|d:\\tsmc\\imageencoder\\imageencoder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8B3A557-9DB2-4E9D-87E7-BD28027341FC}|ImageEncoder\\ImageEncoder.csproj|solutionrelative:imageencoder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B3A557-9DB2-4E9D-87E7-BD28027341FC}|ImageEncoder\\ImageEncoder.csproj|D:\\TSMC\\ImageEncoder\\imageencoder\\watermark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8B3A557-9DB2-4E9D-87E7-BD28027341FC}|ImageEncoder\\ImageEncoder.csproj|solutionrelative:imageencoder\\watermark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B3A557-9DB2-4E9D-87E7-BD28027341FC}|ImageEncoder\\ImageEncoder.csproj|D:\\TSMC\\ImageEncoder\\imageencoder\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8B3A557-9DB2-4E9D-87E7-BD28027341FC}|ImageEncoder\\ImageEncoder.csproj|solutionrelative:imageencoder\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B3A557-9DB2-4E9D-87E7-BD28027341FC}|ImageEncoder\\ImageEncoder.csproj|D:\\TSMC\\ImageEncoder\\imageencoder\\imagehelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8B3A557-9DB2-4E9D-87E7-BD28027341FC}|ImageEncoder\\ImageEncoder.csproj|solutionrelative:imageencoder\\imagehelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "D:\\TSMC\\ImageEncoder\\ImageEncoder\\MainForm.cs",
+              "RelativeDocumentMoniker": "ImageEncoder\\MainForm.cs",
+              "ToolTip": "D:\\TSMC\\ImageEncoder\\ImageEncoder\\MainForm.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "ImageEncoder\\MainForm.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T11:42:51.508Z",
+              "IsPinned": true,
+              "EditorCaption": " [\u8A2D\u8A08]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\TSMC\\ImageEncoder\\ImageEncoder\\MainForm.cs",
+              "RelativeDocumentMoniker": "ImageEncoder\\MainForm.cs",
+              "ToolTip": "D:\\TSMC\\ImageEncoder\\ImageEncoder\\MainForm.cs",
+              "RelativeToolTip": "ImageEncoder\\MainForm.cs",
+              "ViewState": "AQIAAOcAAAAAAAAAAAAiwPsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T11:43:09.449Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TSMC\\ImageEncoder\\ImageEncoder\\Program.cs",
+              "RelativeDocumentMoniker": "ImageEncoder\\Program.cs",
+              "ToolTip": "D:\\TSMC\\ImageEncoder\\ImageEncoder\\Program.cs",
+              "RelativeToolTip": "ImageEncoder\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T14:23:06.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Watermark.cs",
+              "DocumentMoniker": "D:\\TSMC\\ImageEncoder\\ImageEncoder\\Watermark.cs",
+              "RelativeDocumentMoniker": "ImageEncoder\\Watermark.cs",
+              "ToolTip": "D:\\TSMC\\ImageEncoder\\ImageEncoder\\Watermark.cs",
+              "RelativeToolTip": "ImageEncoder\\Watermark.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T14:44:33.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ImageHelpers.cs",
+              "DocumentMoniker": "D:\\TSMC\\ImageEncoder\\ImageEncoder\\ImageHelpers.cs",
+              "RelativeDocumentMoniker": "ImageEncoder\\ImageHelpers.cs",
+              "ToolTip": "D:\\TSMC\\ImageEncoder\\ImageEncoder\\ImageHelpers.cs",
+              "RelativeToolTip": "ImageEncoder\\ImageHelpers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T15:22:47.557Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

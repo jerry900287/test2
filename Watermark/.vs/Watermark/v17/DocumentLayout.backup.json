@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jerry\\Downloads\\Demo\\Watermark\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{319395E4-C3F0-407B-B78D-79760BE217A4}|Watermark\\Watermark.csproj|c:\\users\\jerry\\downloads\\demo\\watermark\\watermark\\startform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{319395E4-C3F0-407B-B78D-79760BE217A4}|Watermark\\Watermark.csproj|solutionrelative:watermark\\startform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{319395E4-C3F0-407B-B78D-79760BE217A4}|Watermark\\Watermark.csproj|C:\\Users\\Jerry\\Downloads\\Demo\\Watermark\\watermark\\textform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{319395E4-C3F0-407B-B78D-79760BE217A4}|Watermark\\Watermark.csproj|solutionrelative:watermark\\textform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{319395E4-C3F0-407B-B78D-79760BE217A4}|Watermark\\Watermark.csproj|C:\\Users\\Jerry\\Downloads\\Demo\\Watermark\\watermark\\startform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{319395E4-C3F0-407B-B78D-79760BE217A4}|Watermark\\Watermark.csproj|solutionrelative:watermark\\startform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{319395E4-C3F0-407B-B78D-79760BE217A4}|Watermark\\Watermark.csproj|c:\\users\\jerry\\downloads\\demo\\watermark\\watermark\\textform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{319395E4-C3F0-407B-B78D-79760BE217A4}|Watermark\\Watermark.csproj|solutionrelative:watermark\\textform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{319395E4-C3F0-407B-B78D-79760BE217A4}|Watermark\\Watermark.csproj|c:\\users\\jerry\\downloads\\demo\\watermark\\watermark\\textform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{319395E4-C3F0-407B-B78D-79760BE217A4}|Watermark\\Watermark.csproj|solutionrelative:watermark\\textform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{319395E4-C3F0-407B-B78D-79760BE217A4}|Watermark\\Watermark.csproj|c:\\users\\jerry\\downloads\\demo\\watermark\\watermark\\start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{319395E4-C3F0-407B-B78D-79760BE217A4}|Watermark\\Watermark.csproj|solutionrelative:watermark\\start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{319395E4-C3F0-407B-B78D-79760BE217A4}|Watermark\\Watermark.csproj|c:\\users\\jerry\\downloads\\demo\\watermark\\watermark\\watermark.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{319395E4-C3F0-407B-B78D-79760BE217A4}|Watermark\\Watermark.csproj|solutionrelative:watermark\\watermark.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Watermark.csproj",
+              "DocumentMoniker": "C:\\Users\\Jerry\\Downloads\\Demo\\Watermark\\Watermark\\Watermark.csproj",
+              "RelativeDocumentMoniker": "Watermark\\Watermark.csproj",
+              "ToolTip": "C:\\Users\\Jerry\\Downloads\\Demo\\Watermark\\Watermark\\Watermark.csproj",
+              "RelativeToolTip": "Watermark\\Watermark.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-02T08:40:24.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Start.cs",
+              "DocumentMoniker": "C:\\Users\\Jerry\\Downloads\\Demo\\Watermark\\Watermark\\Start.cs",
+              "RelativeDocumentMoniker": "Watermark\\Start.cs",
+              "ToolTip": "C:\\Users\\Jerry\\Downloads\\Demo\\Watermark\\Watermark\\Start.cs",
+              "RelativeToolTip": "Watermark\\Start.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T15:04:11.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartForm.cs",
+              "DocumentMoniker": "C:\\Users\\Jerry\\Downloads\\Demo\\Watermark\\Watermark\\StartForm.cs",
+              "RelativeDocumentMoniker": "Watermark\\StartForm.cs",
+              "ToolTip": "C:\\Users\\Jerry\\Downloads\\Demo\\Watermark\\Watermark\\StartForm.cs",
+              "RelativeToolTip": "Watermark\\StartForm.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAUwDoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T15:04:11.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StartForm.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\Jerry\\Downloads\\Demo\\Watermark\\Watermark\\StartForm.cs",
+              "RelativeDocumentMoniker": "Watermark\\StartForm.cs",
+              "ToolTip": "C:\\Users\\Jerry\\Downloads\\Demo\\Watermark\\Watermark\\StartForm.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "Watermark\\StartForm.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T15:04:11.338Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TextForm.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\Jerry\\Downloads\\Demo\\Watermark\\Watermark\\TextForm.cs",
+              "RelativeDocumentMoniker": "Watermark\\TextForm.cs",
+              "ToolTip": "C:\\Users\\Jerry\\Downloads\\Demo\\Watermark\\Watermark\\TextForm.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "Watermark\\TextForm.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T15:04:11.348Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TextForm.cs",
+              "DocumentMoniker": "C:\\Users\\Jerry\\Downloads\\Demo\\Watermark\\Watermark\\TextForm.cs",
+              "RelativeDocumentMoniker": "Watermark\\TextForm.cs",
+              "ToolTip": "C:\\Users\\Jerry\\Downloads\\Demo\\Watermark\\Watermark\\TextForm.cs",
+              "RelativeToolTip": "Watermark\\TextForm.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAzwD0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T15:04:11.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TextForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Jerry\\Downloads\\Demo\\Watermark\\Watermark\\TextForm.Designer.cs",
+              "RelativeDocumentMoniker": "Watermark\\TextForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Jerry\\Downloads\\Demo\\Watermark\\Watermark\\TextForm.Designer.cs",
+              "RelativeToolTip": "Watermark\\TextForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T15:04:11.353Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
